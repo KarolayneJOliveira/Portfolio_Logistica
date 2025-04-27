@@ -1,5 +1,5 @@
 ## Dashboard Logística
-<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
+<img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante:<br>
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
@@ -34,5 +34,5 @@ Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre 
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
-    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/KarolayneJOliveira/Portfolio/blob/main/linguagens/sql.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/KarolayneJOliveira/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
