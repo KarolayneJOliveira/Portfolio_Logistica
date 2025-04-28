@@ -7,7 +7,7 @@ Principais problemas relatados pelo cliente:<br>
 - Queda no faturamento;<br>
 - Comparações anuais dos pedidos.<br>
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_Logistica" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
@@ -26,16 +26,17 @@ Após analisar essas informações foram definidos os principais pontos a serem 
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Medidas.png?raw=true">
-Identificado a necessidade do cliente, .................., iniciou o desenvolvimento.<br>
+Identificado as necessidades do cliente com os atrasos e devoluções, iniciou o desenvolvimento estratégico das medidas.<br>
 Principais medidas desenvolvidas;<br>
  - Faturamento, pedidos, ítens, devoluções;<br>
  - Entregas no prazo e atrasadas e o percetual;<br>
  - Medidas temporais para comparações das Entregas In Full;<br>
- - Medidas temporais para comparações das Devoluções.<br>
-As medidas foram organizadas e padronizadas para melhorar compreensão. Os resultados apresentados ...............
+ - Medidas temporais para comparações das Devoluções;<br>
+ - OTIF (On Time In Full), que avalia a performance das entregas em relação à pontualidade e à integridade do pedido.<br>
+As medidas foram organizadas e padronizadas para melhorar compreensão. Os resultados apresentados permitiram que a empresa pudesse concentrar seus esforços em áreas que demandam de melhorias, evitando que ocorram novamente os problemas.
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
