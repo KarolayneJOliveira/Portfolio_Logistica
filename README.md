@@ -35,7 +35,7 @@ Principais medidas desenvolvidas;<br>
  - OTIF (On Time In Full), indicador que avalia a performance das entregas em relação à pontualidade e à integridade do pedido.<br>
 Todas as medidas foram organizadas e padronizadas para facilitar a compreensão. Os resultados obtidos permitiram à empresa direcionar seus esforços para as áreas que demandavam melhorias, contribuindo para a redução de ocorrências futuras.
 
-<br><br><br>
+<br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
