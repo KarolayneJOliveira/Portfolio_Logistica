@@ -24,10 +24,13 @@ Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20214725.png?raw=true">
 Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.
-Principais medidas desenvolvidas;
- - Custos, Receitas, Lucro, Entregas
- -  Medidas de inteligência temporal para comparação de performance e resultados entre períodos distintos ou cumulativos.
-Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
+Principais medidas desenvolvidas;<br>
+ - Faturamento, pedidos, itens;<br>
+ - Entregas no prazo e atrasadas e o percetual de cada;<br>
+ - Devoluções;<br>
+ - Medidas temporais para comparações das Entregas In Full;<br>
+ - Medidas temporais para comparações das Devuloções.<br>
+As medidas foram organizadas, e padronizadas para melhor compreensão. Os resultados apresentados ...............
 
 
 <br><br><br><br><br><br><br><br>
