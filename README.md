@@ -22,7 +22,7 @@ A base de dados utilizada foi extraída do site da Kaggle, no formato .csv, cont
 - Motivos de devoluções.<br>
 Após  a análisar dos dados, foram definidos os principais pontos a serem desenvolvidos e estabelecidas as métricas necessárias para solucionar os problemas relatados pelo cliente. 
 
-<br><br><br>
+<br><br><br><br>
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Medidas.png?raw=true">
