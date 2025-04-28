@@ -14,7 +14,7 @@ Principais problemas relatados pelo requisitante:<br>
 
 ## Fonte de dados 
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
-A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia dos anos de 2019 a 2021, contemplando as seguintes informações:
+A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia dos anos de 2019 a 2021, contemplando as seguintes informações:<br>
 - As entregas realizadas ao longo dos anos;<br>
 - Pedidos, clientes, destinos, motoristas, faturamento;<br>
 - Datas: Emissão, prevista e realizada;<br>
