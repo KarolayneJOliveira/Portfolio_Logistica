@@ -1,10 +1,11 @@
 ## Dashboard Logística
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.<br>
-Principais problemas relatados pelo requisitante:<br>
-- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
-- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
-- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores de devolução nas entregas, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
+Principais problemas relatados pelo cliente:<br>
+- Altos índices de entregas atrasadas;<br>
+- Grande volume de devoluções;<br>
+- Queda no faturamento;<br>
+- Comparações anuais dos pedidos.<br>
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
