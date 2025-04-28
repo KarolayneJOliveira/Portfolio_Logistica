@@ -15,25 +15,25 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Fonte dos dados 
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
-A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia dos anos de 2019 a 2021, contemplando as seguintes informações:<br>
+A base de dados utilizada foi extraída do site da Kaggle, no formato .csv, contendo registros de uma empresa fictícia referentes aos anos de 2019 a 2021. O conjuto de dados inclui informações sobre:<br>
 - As entregas realizadas ao longo dos anos;<br>
 - Pedidos, clientes, destinos, motoristas, faturamento;<br>
-- Datas: Emissão, prevista e realizada;<br>
-- Motivo de devoluções.<br>
-Após analisar essas informações foram definidos os principais pontos a serem desenvolvidos e definido quais as medidas que deveriam ser utilizadas para solucionar os problemas relatados pelo cliente. 
+- Datas de emissão, previsão e realização das entregas;<br>
+- Motivos de devoluções.<br>
+Após  a análisar dos dados, foram definidos os principais pontos a serem desenvolvidos e estabelecidas as métricas necessárias para solucionar os problemas relatados pelo cliente. 
 
 <br><br><br><br>
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Medidas.png?raw=true">
-Identificado as necessidades do cliente com os atrasos e devoluções, iniciou o desenvolvimento estratégico das medidas.<br>
+Identificado as necessidades do cliente relacionadas com os atrasos e devoluções, iniciou o desenvolvimento estratégico das medidas de análise.<br>
 Principais medidas desenvolvidas;<br>
- - Faturamento, pedidos, ítens, devoluções;<br>
- - Entregas no prazo e atrasadas e o percetual;<br>
- - Medidas temporais para comparações das Entregas In Full;<br>
- - Medidas temporais para comparações das Devoluções;<br>
- - OTIF (On Time In Full), que avalia a performance das entregas em relação à pontualidade e à integridade do pedido.<br>
-As medidas foram organizadas e padronizadas para melhorar compreensão. Os resultados apresentados permitiram que a empresa pudesse concentrar seus esforços em áreas que demandam de melhorias, evitando que ocorram novamente os problemas.
+ - Análises de faturamento, pedidos, ítens, devoluções;<br>
+ - Indicadores de entregas no prazo e com atrasos, além dos respectivos percentuais;<br>
+ - Métricas temporais para comparações das entregas In Full;<br>
+ - Medidas temporais para comparações das devoluções;<br>
+ - OTIF (On Time In Full), indicador que avalia a performance das entregas em relação à pontualidade e à integridade do pedido.<br>
+Todas as medidas foram organizadas e padronizadas para facilitar a compreensão. Os resultados obtidos permitiram à empresa direcionar seus esforços para as áreas que demandavam melhorias, contribuindo para a redução de ocorrências futuras.
 
 
 <br><br><br>
