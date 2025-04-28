@@ -1,11 +1,11 @@
 ## Dashboard Logística
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
-Projeto de dashboard devolvido com Power BI para uma transportadora, com o intuito de identificar os principais fatores de devolução nas entregas, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
+Projeto de dashboard desenvolvido com Power BI para uma transportadora, com o objetivo de identificar os principais fatores responsáveis pelas devoluções nas entregas, permitindo análises dinâmicas e de fácil compartilhamento para a tomada de decisão.<br>
 Principais problemas relatados pelo cliente:<br>
-- Altos índices de entregas atrasadas;<br>
-- Grande volume de devoluções;<br>
-- Queda no faturamento;<br>
-- Comparações anuais dos pedidos.<br>
+- Elevado índice de entregas atrasadas;<br>
+- Alto volume de devoluções;<br>
+- Redução no faturamento;<br>
+- Dificuldade em realizar comparações anuais dos pedidos.<br>
 <br>
 <a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
