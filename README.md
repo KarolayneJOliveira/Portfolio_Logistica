@@ -1,6 +1,6 @@
 ## Dashboard Logística
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Dashboard%20logistica.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.<br>
 Principais problemas relatados pelo requisitante:<br>
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
 - Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
@@ -10,30 +10,31 @@ Principais problemas relatados pelo requisitante:<br>
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_Logistica" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-
 <br><br>
 
-## Modelo e fonte de dados 
-<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20202755.png?raw=true">
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
-
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+## Fonte de dados 
+<img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
+A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia dos anos de 2019 a 2021, contemplando as seguintes informações:
+- As entregas realizadas ao longo dos anos;<br>
+- Pedidos, clientes, destinos, motoristas, faturamento;<br>
+- Datas: Emissão, prevista e realizada;<br>
+- Motivo de devoluções.<br>
+Após analisar essas informações foram definidos os principais pontos a serem desenvolvidos e definido quais as medidas que deveriam ser utilizadas para solucionar os problemas relatados pelo cliente. 
 
 <br><br><br><br>
 
 ## Medidas
-<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20214725.png?raw=true">
-Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.
+<img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Medidas.png?raw=true">
+Identificado a necessidade do cliente, .................., iniciou o desenvolvimento.<br>
 Principais medidas desenvolvidas;<br>
- - Faturamento, pedidos, itens;<br>
- - Entregas no prazo e atrasadas e o percetual de cada;<br>
- - Devoluções;<br>
+ - Faturamento, pedidos, ítens, devoluções;<br>
+ - Entregas no prazo e atrasadas e o percetual;<br>
  - Medidas temporais para comparações das Entregas In Full;<br>
- - Medidas temporais para comparações das Devuloções.<br>
-As medidas foram organizadas, e padronizadas para melhor compreensão. Os resultados apresentados ...............
+ - Medidas temporais para comparações das Devoluções.<br>
+As medidas foram organizadas e padronizadas para melhorar compreensão. Os resultados apresentados ...............
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
