@@ -22,7 +22,7 @@ A base de dados utilizada foi extraída do site da Kaggle, no formato .csv, cont
 - Motivos de devoluções.<br>
 Após  a análisar dos dados, foram definidos os principais pontos a serem desenvolvidos e estabelecidas as métricas necessárias para solucionar os problemas relatados pelo cliente. 
 
-<br><br><br><br>
+<br><br><br>
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_Logistica/blob/main/Design/Medidas.png?raw=true">
@@ -35,8 +35,7 @@ Principais medidas desenvolvidas;<br>
  - OTIF (On Time In Full), indicador que avalia a performance das entregas em relação à pontualidade e à integridade do pedido.<br>
 Todas as medidas foram organizadas e padronizadas para facilitar a compreensão. Os resultados obtidos permitiram à empresa direcionar seus esforços para as áreas que demandavam melhorias, contribuindo para a redução de ocorrências futuras.
 
-
-<br><br>
+<br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
