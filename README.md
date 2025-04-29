@@ -7,7 +7,7 @@ Principais problemas relatados pelo cliente:<br>
 - Redução no faturamento;<br>
 - Dificuldade em realizar comparações anuais dos pedidos.<br>
 <br>
-<a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="https://app.powerbi.com/reportEmbed?reportId=54e2280d-ed01-4379-a051-be8a3df619d0&autoAuth=true&ctid=9eb08943-dd35-493d-9e7a-37d444bb40eb" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_Logistica" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
